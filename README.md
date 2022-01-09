@@ -1,6 +1,6 @@
-# Awesome Test-time Adaptation &nbsp;&nbsp;&nbsp; [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+# Awesome Source-free Test-time Adaptation &nbsp;&nbsp;&nbsp; [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-A curated list of research papers in `Test-time Adaptation` (**TTA**), which also goes by other names, including `Test-time Training` (**TTT**) or `Source-free Domain Adaptation` (**SFDA**).
+This is a curated list of research papers in `Test-time Adaptation` (**TTA**), which also goes by other names, including `Test-time Training` (**TTT**) or `Source-free Domain Adaptation` (**SFDA**).
 
 The repository is actively maintained. Pull requests or direct messages are welcome.
 
@@ -13,9 +13,11 @@ The repository is actively maintained. Pull requests or direct messages are welc
   * [Pseudo Labeling](#pseudo-labeling)
   * [Class Prototype](#class-prototype)
   * [Feature Alignment](#feature-alignment)
+  * [Generative Modeling](#generative-modeling)
   * [Nearest Neighbors](#nearest-neighbors)
   * [Augmentation Invariance](#augmentation-invariance)
   * [Meta-learning](#meta-learning)
+  * [Others](#others)
 * [Applications](#applications)
 <!-- * [Datasets](#datasets) -->
 
@@ -30,6 +32,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 * [Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation](http://proceedings.mlr.press/v119/liang20a.html) ICML'20
 * [Tent: Fully Test-Time Adaptation by Entropy Minimization](https://openreview.net/forum?id=uXl3bZLkr3c) ICLR'21
+* [Test-Time Adaptation to Distribution Shift by Confidence Maximization and Input Transformation](https://openreview.net/forum?id=uVTp9Z-IUOC) Preprint'21
 
 #### Batch Normalization
 
@@ -42,6 +45,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 #### Pseudo Labeling
 
 * [Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation](http://proceedings.mlr.press/v119/liang20a.html) ICML'20
+* [Generative Pseudo-label Refinement for Unsupervised Domain Adaptation](https://www.computer.org/csdl/proceedings-article/wacv/2020/09093579/1jPbrqho82k) WACV'20
 * [Adapting ImageNet-scale models to complex distribution shifts with self-learning](https://arxiv.org/abs/2104.12928) Preprint'21
 
 #### Class Prototype
@@ -53,7 +57,13 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 * [TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive?](https://proceedings.neurips.cc/paper/2021/hash/b618c3210e934362ac261db280128c22-Abstract.html) NeurIPS'21
 * [SoFA: Source-data-free Feature Alignment for Unsupervised Domain Adaptation](https://openaccess.thecvf.com/content/WACV2021/papers/Yeh_SoFA_Source-Data-Free_Feature_Alignment_for_Unsupervised_Domain_Adaptation_WACV_2021_paper.pdf) WACV'21
+* [Source-Free Adaptation to Measurement Shift via Bottom-Up Feature Restoration](https://openreview.net/forum?id=1JDiK_TbV4S) Preprint'21
 * [Invariance Through Inference](https://openreview.net/forum?id=vXGcHthY6v) Preprint'21
+
+#### Generative Modeling
+
+* [Model Adaptation: Unsupervised Domain Adaptation without Source Data](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Model_Adaptation_Unsupervised_Domain_Adaptation_Without_Source_Data_CVPR_2020_paper.html) CVPR'20
+* [Domain Impression: A Source Data Free Domain Adaptation Method](https://openaccess.thecvf.com/content/WACV2021/papers/Kurmi_Domain_Impression_A_Source_Data_Free_Domain_Adaptation_Method_WACV_2021_paper.pdf) WACV'21
 
 #### Nearest Neighbors
 
@@ -67,7 +77,9 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 #### Meta-learning
 
+* [Test-Time Fast Adaptation for Dynamic Scene Deblurring via Meta-Auxiliary Learning](https://openaccess.thecvf.com/content/CVPR2021/html/Chi_Test-Time_Fast_Adaptation_for_Dynamic_Scene_Deblurring_via_Meta-Auxiliary_Learning_CVPR_2021_paper.html) CVPR'21
 * [Adaptive Risk Minimization: Learning to Adapt to Domain Shift](https://proceedings.neurips.cc/paper/2021/hash/c705112d1ec18b97acac7e2d63973424-Abstract.html) NeurIPS'21
+* [Learning to Generalize across Domains on Single Test Samples](https://openreview.net/forum?id=CIaQKbTBwtU) Preprint'21
 
 #### Others
 
@@ -79,9 +91,9 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 ### Applications
 * [Self-Supervised Policy Adaptation during Deployment](https://openreview.net/forum?id=o_V-MjyyGV_) ICLR'21
-* [Test-Time Personalization with a Transformer for Human Pose Estimation](https://proceedings.neurips.cc/paper/2021/file/1517c8664be296f0d87d9e5fc54fdd60-Paper.pdf) NeurIPS'21
 * [Fully Test-Time Adaptation for Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_24) MICCAI'21
 * [Adapting Off-the-Shelf Source Segmenter for Target Medical Image Segmentation](https://arxiv.org/pdf/2106.12497.pdf) MICCAI'21
 * [SS-SFDA: Self-Supervised Source-Free Domain Adaptation for Road Segmentation in Hazardous Environments](https://openaccess.thecvf.com/content/WACV2021/papers/Yeh_SoFA_Source-Data-Free_Feature_Alignment_for_Unsupervised_Domain_Adaptation_WACV_2021_paper.pdf) ICCV'21
+* [Test-Time Personalization with a Transformer for Human Pose Estimation](https://proceedings.neurips.cc/paper/2021/file/1517c8664be296f0d87d9e5fc54fdd60-Paper.pdf) NeurIPS'21
   
 <!-- ### Datasets -->
