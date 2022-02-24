@@ -42,9 +42,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [Tent: Fully Test-Time Adaptation by Entropy Minimization](https://openreview.net/forum?id=uXl3bZLkr3c) ICLR'21
 * [Limitations of Post-Hoc Feature Alignment for Robustness
 ](https://openaccess.thecvf.com/content/CVPR2021/html/Burns_Limitations_of_Post-Hoc_Feature_Alignment_for_Robustness_CVPR_2021_paper.html) CVPR'21
-* [Test-time Batch Statistics Calibration for Covariate Shift](https://openreview.net/forum?id=9gz8qakpyhG) 
-
-'21
+<!-- * [Test-time Batch Statistics Calibration for Covariate Shift](https://openreview.net/forum?id=9gz8qakpyhG) ICLR'21 -->
 
 #### Pseudo Labeling
 
