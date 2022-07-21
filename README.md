@@ -35,6 +35,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation](http://proceedings.mlr.press/v119/liang20a.html) ICML'20
 * [Tent: Fully Test-Time Adaptation by Entropy Minimization](https://openreview.net/forum?id=uXl3bZLkr3c) ICLR'21
 * [Uncertainty Reduction for Model Adaptation in Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/html/S_Uncertainty_Reduction_for_Model_Adaptation_in_Semantic_Segmentation_CVPR_2021_paper.html) CVPR'21
+* [Bayesian Adaptation for Covariate Shift](https://openreview.net/forum?id=15HPeY8MGQ) NeurIPS'21
 * [Test-Time Adaptation to Distribution Shift by Confidence Maximization and Input Transformation](https://openreview.net/forum?id=uVTp9Z-IUOC) Preprint'21
 * [Efficient Test-Time Model Adaptation without Forgetting](https://arxiv.org/abs/2204.02610) ICML'22
 * [Confidence Score for Source-Free Unsupervised Domain Adaptation](https://arxiv.org/abs/2206.06640) ICML'22
