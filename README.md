@@ -116,6 +116,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [Parameter-free Online Test-time Adaptation](https://arxiv.org/abs/2201.05718) CVPR'22
 * [Visual Prompt Tuning for Test-time Domain Adaptation](https://arxiv.org/abs/2210.04831) Preprint'22
 * [Test-Time Adaptation via Conjugate Pseudo-labels](https://openreview.net/forum?id=2yvUYc-YNUH) NeurIPS'22
+* [Evaluating the Adversarial Robustness of Adaptive Test-time Defenses](https://proceedings.mlr.press/v162/croce22a/croce22a.pdf) ICML'22
 
 ### Applications
 * [Self-Supervised Policy Adaptation during Deployment](https://openreview.net/forum?id=o_V-MjyyGV_) ICLR'21
@@ -132,5 +133,8 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [MM-TTA: Multi-Modal Test-Time Adaptation for 3D Semantic Segmentation](https://arxiv.org/abs/2204.12667) CVPR'22
 * [Source-Free Object Detection by Learning to Overlook Domain Style](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Source-Free_Object_Detection_by_Learning_To_Overlook_Domain_Style_CVPR_2022_paper.html) CVPR'22
 * [Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models](https://openreview.net/forum?id=e8PVEkSa4Fq) NeurIPS'22
+* [Test-Time Training Can Close the Natural Distribution Shift Performance Gap in Deep Learning Based Compressed Sensing](https://proceedings.mlr.press/v162/darestani22a/darestani22a.pdf) ICML'22* 
+* [The Dual Form of Neural Networks Revisited: Connecting Test Time Predictions to Training Patterns via Spotlights of Attention
+](https://proceedings.mlr.press/v162/irie22a/irie22a.pdf) ICML'22
 
 <!-- ### Datasets -->
