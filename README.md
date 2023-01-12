@@ -105,6 +105,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [Continual Test-Time Domain Adaptation](https://arxiv.org/abs/2203.13591) CVPR'22
 * [NOTE: Robust Continual Test-time Adaptation Against Temporal Correlation](https://openreview.net/forum?id=E9HNxrCFZPV) NeurIPS'22
 * [Extrapolative Continuous-time Bayesian Neural Network for Fast Training-free Test-time Adaptation](https://openreview.net/forum?id=wiHzQWwg3l) NeurIPS'22
+* [Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation](https://arxiv.org/pdf/2212.04145.pdf) AAAI'23
 
 #### Others
 
