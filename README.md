@@ -126,6 +126,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [MECTA: Memory-Economic Continual Test-Time Model Adaptation](https://openreview.net/forum?id=N92hjSf5NNh) ICLR'23
 
 ### Applications
+* [Consistent Video Depth Estimation](https://arxiv.org/pdf/2004.15021.pdf) SIGGRAPH'2020
 * [Self-Supervised Policy Adaptation during Deployment](https://openreview.net/forum?id=o_V-MjyyGV_) ICLR'21
 * [Source-Free Domain Adaptation for Image Segmentation](https://arxiv.org/pdf/2108.03152.pdf) MICCAI'20
 * [Fully Test-Time Adaptation for Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_24) MICCAI'21
@@ -145,5 +146,6 @@ The repository is actively maintained. Pull requests or direct messages are welc
 ](https://proceedings.mlr.press/v162/irie22a/irie22a.pdf) ICML'22
 * [AuxAdapt: Stable and Efficient Test-Time Adaptation for Temporally Consistent Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2022/papers/Zhang_AuxAdapt_Stable_and_Efficient_Test-Time_Adaptation_for_Temporally_Consistent_Video_WACV_2022_paper.pdf) WACV'22
 * [On the Road to Online Adaptation for Semantic Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Volpi_On_the_Road_to_Online_Adaptation_for_Semantic_Image_Segmentation_CVPR_2022_paper.pdf) CVPR'22
+
 
 <!-- ### Datasets -->
