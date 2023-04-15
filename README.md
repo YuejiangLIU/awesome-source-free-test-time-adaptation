@@ -32,6 +32,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [Contrastive Test-Time Adaptation](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Contrastive_Test-Time_Adaptation_CVPR_2022_paper.pdf) CVPR'22
 * [Divide and Contrast: Source-free Domain Adaptation via Adaptive Contrastive Learning](https://openreview.net/forum?id=NjImFaBEHl) NeurIPS'22
 * [Test-Time Training with Masked Autoencoders](https://openreview.net/forum?id=SHMi1b7sjXk) NeurIPS'22
+* [Improved Test-Time Adaptation for Domain Generalization](https://arxiv.org/abs/2304.04494) CVPR'23
 
 #### Information Entropy
 
@@ -65,6 +66,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [Contrastive Test-Time Adaptation](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Contrastive_Test-Time_Adaptation_CVPR_2022_paper.pdf) CVPR'22
 * [Test-Time Adaptation via Conjugate Pseudo-labels](https://openreview.net/forum?id=2yvUYc-YNUH) NeurIPS'22
 * [Towards Understanding GD with Hard and Conjugate Pseudo-labels for Test-Time Adaptation](https://openreview.net/forum?id=FJXf1FXN8C) ICLR'23
+* [TeSLA: Test-Time Self-Learning With Automatic Adversarial Augmentation](https://arxiv.org/abs/2303.09870) CVPR'23
 
 #### Class Prototype
 
@@ -81,12 +83,13 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [Source-Free Adaptation to Measurement Shift via Bottom-Up Feature Restoration](https://openreview.net/forum?id=1JDiK_TbV4S) ICLR'22
 * [Invariance Through Inference](https://openreview.net/forum?id=vXGcHthY6v) Preprint'21
 * [Source-Free Domain Adaptation via Distribution Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Source-Free_Domain_Adaptation_via_Distribution_Estimation_CVPR_2022_paper.pdf) CVPR'22
+* [ActMAD: Activation Matching to Align Distributions for Test-Time-Training](https://arxiv.org/abs/2211.12870) CVPR'23
 
 #### Generative Modeling
 
 * [Model Adaptation: Unsupervised Domain Adaptation without Source Data](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Model_Adaptation_Unsupervised_Domain_Adaptation_Without_Source_Data_CVPR_2020_paper.html) CVPR'20
 * [Domain Impression: A Source Data Free Domain Adaptation Method](https://openaccess.thecvf.com/content/WACV2021/papers/Kurmi_Domain_Impression_A_Source_Data_Free_Domain_Adaptation_Method_WACV_2021_paper.pdf) WACV'21
-* [Back to the Source: Diffusion-Driven Test-Time Adaptation](https://arxiv.org/abs/2207.03442) Preprint'22
+* [Back to the Source: Diffusion-Driven Test-Time Adaptation](https://arxiv.org/abs/2207.03442) CVPR'23
 
 #### Nearest Neighbors
 
@@ -112,6 +115,10 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [NOTE: Robust Continual Test-time Adaptation Against Temporal Correlation](https://openreview.net/forum?id=E9HNxrCFZPV) NeurIPS'22
 * [Extrapolative Continuous-time Bayesian Neural Network for Fast Training-free Test-time Adaptation](https://openreview.net/forum?id=wiHzQWwg3l) NeurIPS'22
 * [Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation](https://arxiv.org/pdf/2212.04145.pdf) AAAI'23
+* [Robust Test-Time Adaptation in Dynamic Scenarios](https://arxiv.org/abs/2303.13899) CVPR'23
+* [A Probabilistic Framework for Lifelong Test-Time Adaptation](https://arxiv.org/abs/2212.09713) CVPR'23
+* [Robust Mean Teacher for Continual and Gradual Test-Time Adaptation](https://arxiv.org/abs/2211.13081) CVPR'23
+* [EcoTTA: Memory-Efficient Continual Test-time Adaptation via Self-distilled Regularization](https://arxiv.org/abs/2303.01904) CVPR'23
 
 #### Others
 
@@ -124,8 +131,10 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [Visual Prompt Tuning for Test-time Domain Adaptation](https://arxiv.org/abs/2210.04831) Preprint'22
 * [Evaluating the Adversarial Robustness of Adaptive Test-time Defenses](https://proceedings.mlr.press/v162/croce22a/croce22a.pdf) ICML'22
 * [MECTA: Memory-Economic Continual Test-Time Model Adaptation](https://openreview.net/forum?id=N92hjSf5NNh) ICLR'23
+* [Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation](https://arxiv.org/abs/2303.00914) CVPR'23
 
 ### Applications
+* [Consistent Video Depth Estimation](https://arxiv.org/pdf/2004.15021.pdf) SIGGRAPH'2020
 * [Self-Supervised Policy Adaptation during Deployment](https://openreview.net/forum?id=o_V-MjyyGV_) ICLR'21
 * [Source-Free Domain Adaptation for Image Segmentation](https://arxiv.org/pdf/2108.03152.pdf) MICCAI'20
 * [Fully Test-Time Adaptation for Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_24) MICCAI'21
@@ -145,5 +154,9 @@ The repository is actively maintained. Pull requests or direct messages are welc
 ](https://proceedings.mlr.press/v162/irie22a/irie22a.pdf) ICML'22
 * [AuxAdapt: Stable and Efficient Test-Time Adaptation for Temporally Consistent Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2022/papers/Zhang_AuxAdapt_Stable_and_Efficient_Test-Time_Adaptation_for_Temporally_Consistent_Video_WACV_2022_paper.pdf) WACV'22
 * [On the Road to Online Adaptation for Semantic Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Volpi_On_the_Road_to_Online_Adaptation_for_Semantic_Image_Segmentation_CVPR_2022_paper.pdf) CVPR'22
+* [TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation](https://arxiv.org/abs/2303.16730) CVPR'23
+* [SfM-TTR: Using Structure from Motion for Test-Time Refinement of Single-View Depth Networks](https://arxiv.org/abs/2211.13551) CVPR'23
+* [Video Test-Time Adaptation for Action Recognition](https://arxiv.org/abs/2211.15393) CVPR'23
+
 
 <!-- ### Datasets -->
