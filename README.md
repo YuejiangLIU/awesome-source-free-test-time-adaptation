@@ -19,6 +19,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
   * [Meta-learning](#meta-learning)
   * [Time-varying](#time-varying)
   * [Others](#others)
+* [Benchmark](#benchmark)
 * [Applications](#applications)
 <!-- * [Datasets](#datasets) -->
 
@@ -131,6 +132,9 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [Evaluating the Adversarial Robustness of Adaptive Test-time Defenses](https://proceedings.mlr.press/v162/croce22a/croce22a.pdf) ICML'22
 * [MECTA: Memory-Economic Continual Test-Time Model Adaptation](https://openreview.net/forum?id=N92hjSf5NNh) ICLR'23
 * [Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation](https://arxiv.org/abs/2303.00914) CVPR'23
+
+### Benchmark
+* [On Pitfalls of Test-Time Adaptation](https://github.com/LINs-lab/ttab) ICML'2023
 
 ### Applications
 * [Consistent Video Depth Estimation](https://arxiv.org/pdf/2004.15021.pdf) SIGGRAPH'2020
