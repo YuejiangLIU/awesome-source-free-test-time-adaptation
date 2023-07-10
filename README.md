@@ -134,7 +134,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation](https://arxiv.org/abs/2303.00914) CVPR'23
 
 ### Benchmark
-* [On Pitfalls of Test-Time Adaptation](https://arxiv.org/pdf/2306.03536.pdf) ICML'2023 https://github.com/LINs-lab/ttab
+* [On Pitfalls of Test-Time Adaptation](https://arxiv.org/pdf/2306.03536.pdf) ICML'2023 [[Code]](https://github.com/LINs-lab/ttab)
 
 ### Applications
 * [Consistent Video Depth Estimation](https://arxiv.org/pdf/2004.15021.pdf) SIGGRAPH'2020 [[Project]](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)
