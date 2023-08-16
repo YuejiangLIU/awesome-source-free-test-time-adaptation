@@ -35,6 +35,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [Test-Time Training with Masked Autoencoders](https://openreview.net/forum?id=SHMi1b7sjXk) NeurIPS'22 [[Project]](https://yossigandelsman.github.io/ttt_mae/index.html)
 * [Improved Test-Time Adaptation for Domain Generalization](https://arxiv.org/abs/2304.04494) CVPR'23 [[Code]](https://github.com/liangchen527/ITTA)
 * [PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization](https://arxiv.org/abs/2307.15199) ICCV'23
+* [MATE: Masked Autoencoders are Online 3D Test-Time Learners](https://arxiv.org/abs/2211.11432) ICCV'23
 
 #### Information Entropy
 
