@@ -85,6 +85,8 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [Invariance Through Latent Alignment](https://openreview.net/forum?id=vXGcHthY6v) RSS'22 [[Project]](https://invariance-through-latent-alignment.github.io/)
 * [Source-Free Domain Adaptation via Distribution Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Source-Free_Domain_Adaptation_via_Distribution_Estimation_CVPR_2022_paper.pdf) CVPR'22
 * [ActMAD: Activation Matching to Align Distributions for Test-Time-Training](https://arxiv.org/abs/2211.12870) CVPR'23 [[Code]](https://github.com/jmiemirza/actmad)
+* [Feature Alignment and Uniformity for Test Time Adaptation
+](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Feature_Alignment_and_Uniformity_for_Test_Time_Adaptation_CVPR_2023_paper.html) CVPR'23 [[Code]](https://github.com/SakurajimaMaiii/TSD)
 * [Robustness to corruption in pre-trained Bayesian neural networks](https://openreview.net/forum?id=kUI41mY8bHl) ICLR'23
 
 #### Generative Modeling
