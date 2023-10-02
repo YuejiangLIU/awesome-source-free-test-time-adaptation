@@ -35,6 +35,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [Improved Test-Time Adaptation for Domain Generalization](https://arxiv.org/abs/2304.04494) CVPR'23 [[Code]](https://github.com/liangchen527/ITTA)
 * [PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization](https://arxiv.org/abs/2307.15199) ICCV'23
 * [MATE: Masked Autoencoders are Online 3D Test-Time Learners](https://arxiv.org/abs/2211.11432) ICCV'23
+* [On the Robustness of Open-World Test-Time Training: Self-Training with Dynamic Prototype Expansion](https://arxiv.org/abs/2308.09942) ICCV'23  [[Code]](https://github.com/Yushu-Li/OWTTT)
 
 #### Information Entropy
 
@@ -75,7 +76,8 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [Test-Time Classifier Adjustment Module for Model-Agnostic Domain Generalization](https://proceedings.neurips.cc/paper/2021/hash/1415fe9fea0fa1e45dddcff5682239a0-Abstract.html) NeurIPS'21 [[Code]](https://github.com/matsuolab/T3A)
 * [Revisiting Realistic Test-Time Training: Sequential Inference and Adaptation by Anchored Clustering](https://openreview.net/forum?id=W-_4hgRkwb) NeurIPS'22 [[Code]](https://github.com/Gorilla-Lab-SCUT/TTAC)
 * [Attracting and Dispersing: A Simple Approach for Source-free Domain Adaptation](https://openreview.net/forum?id=ZlCpRiZN7n) NeurIPS'22 [[Code]](https://github.com/Albert0147/AaD_SFDA)
-
+* [On the Robustness of Open-World Test-Time Training: Self-Training with Dynamic Prototype Expansion](https://arxiv.org/abs/2308.09942) ICCV'23  [[Code]](https://github.com/Yushu-Li/OWTTT)
+  
 #### Feature Alignment
 
 * [SoFA: Source-data-free Feature Alignment for Unsupervised Domain Adaptation](https://openaccess.thecvf.com/content/WACV2021/papers/Yeh_SoFA_Source-Data-Free_Feature_Alignment_for_Unsupervised_Domain_Adaptation_WACV_2021_paper.pdf) WACV'21
