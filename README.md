@@ -56,6 +56,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [TTN: A Domain-Shift Aware Batch Normalization in Test-Time Adaptation](https://openreview.net/forum?id=EQfeudmWLQ) ICLR'23
 * [Delta: Degradation-Free Fully Test-Time Adaptation](https://openreview.net/forum?id=eGm22rqG93) ICLR'23
 * [Towards Stable Test-time Adaptation in Dynamic Wild World](https://openreview.net/forum?id=g2YraF75Tj) ICLR'23 [[Code]](https://github.com/mr-eggplant/SAR)
+* [Test-time Adaptation in the Dynamic World with Compound Domain Knowledge Management](https://arxiv.org/abs/2212.08356) RA-L'23
 
 #### Pseudo Labeling
 
@@ -166,5 +167,4 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation](https://arxiv.org/abs/2303.16730) CVPR'23 [[Project]](https://sites.google.com/view/taeyeop-lee/ttacope)
 * [SfM-TTR: Using Structure from Motion for Test-Time Refinement of Single-View Depth Networks](https://arxiv.org/abs/2211.13551) CVPR'23 [[Code]](https://github.com/serizba/SfM-TTR)
 * [Video Test-Time Adaptation for Action Recognition](https://arxiv.org/abs/2211.15393) CVPR'23 [[Project]](https://wlin-at.github.io/vitta)
-
 
