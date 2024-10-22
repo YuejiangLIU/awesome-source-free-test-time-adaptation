@@ -138,6 +138,8 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [Evaluating the Adversarial Robustness of Adaptive Test-time Defenses](https://proceedings.mlr.press/v162/croce22a/croce22a.pdf) ICML'22
 * [MECTA: Memory-Economic Continual Test-Time Model Adaptation](https://openreview.net/forum?id=N92hjSf5NNh) ICLR'23
 * [Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation](https://arxiv.org/abs/2303.00914) CVPR'23
+* [GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation](https://www.computer.org/csdl/journal/tp/5555/01/10561561/1XSjvvkWZhu) TPAMI'24 [[Code]](https://github.com/luo-junyu/GALA)
+* [Rank and Align: Towards Effective Source-free Graph Domain Adaptation](https://www.ijcai.org/proceedings/2024/520) IJCAI'24
 
 ### Benchmark
 * [On Pitfalls of Test-Time Adaptation](https://arxiv.org/pdf/2306.03536.pdf) ICML'2023 [[Code]](https://github.com/LINs-lab/ttab)
