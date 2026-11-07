@@ -36,6 +36,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization](https://arxiv.org/abs/2307.15199) ICCV'23
 * [MATE: Masked Autoencoders are Online 3D Test-Time Learners](https://arxiv.org/abs/2211.11432) ICCV'23
 * [On the Robustness of Open-World Test-Time Training: Self-Training with Dynamic Prototype Expansion](https://arxiv.org/abs/2308.09942) ICCV'23  [[Code]](https://github.com/Yushu-Li/OWTTT)
+* [Efficient Test-Time Prompt Tuning for Vision-Language Models](https://link.springer.com/article/10.1007/s11263-026-03019-3) IJCV'26
 
 #### Information Entropy
 
